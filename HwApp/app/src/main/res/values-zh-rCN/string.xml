@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HwApp</string>
+    <string name="hwAccountAndPass">华为账号与密码</string>
+    <string name="gameCenter">游戏中心</string>
+    <string name="hwAppCenter">应用中心</string>
+    <string name="service">服务</string>
+    <string name="repair">故障检修</string>
+</resources>

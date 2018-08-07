@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HwApp</string>
+    <string name="hwAccountAndPass">huawei Account And Password</string>
+    <string name="gameCenter">Game Center</string>
+    <string name="hwAppCenter">App Center</string>
+    <string name="service">service</string>
+    <string name="repair">repair</string>
+</resources>

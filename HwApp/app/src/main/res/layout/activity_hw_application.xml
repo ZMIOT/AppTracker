@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HwApplication"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/en_rus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="英文"/>
+    <Button
+        android:id="@+id/zh_rcn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="简体中文"
+        />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv_hwapp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </android.support.v7.widget.RecyclerView>
+
+</LinearLayout>

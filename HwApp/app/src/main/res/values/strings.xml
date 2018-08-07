@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HwApp</string>
+    <string name="empty_no_data">There is no data, Click Retry</string>
+</resources>
